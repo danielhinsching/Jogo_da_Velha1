@@ -1,0 +1,50 @@
+
+
+.casa{
+    border: 10px solid rgb(254, 255, 255);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    line-height: 150px;
+
+}
+.linha{
+    display: grid;
+    grid-template-columns: 160px 160px 160px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0); ;
+}
+
+
+#casa01{
+    border-width: 0px 10px 10px 0px;
+}
+#casa02{
+    border-width: 0px 10px 10px 0px;
+}
+#casa03{
+    border-width: 0px 0px 10px 0px;
+}
+#casa04{
+    border-width: 0px 10px 0px 0px;
+}
+#casa05{
+    border-width: 0px 10px 0px 0px;
+}
+#casa06{
+    border-width: 0px 0px 0px 0px;
+}
+#casa07{
+    border-width: 10px 10px 0px 0px;
+}
+#casa08{
+    border-width: 10px 10px 0px 0px;
+}
+#casa09{
+    border-width: 10px 0px 0px 0px;
+}
